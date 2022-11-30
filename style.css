@@ -79,3 +79,8 @@ button {
     color: rgb(255, 255, 255);
     border-radius: 50px;
 }
+
+a button:hover{
+    background-color: rgba(0, 65, 90, 0.808);
+    color: rgb(255, 255, 255);
+} 
